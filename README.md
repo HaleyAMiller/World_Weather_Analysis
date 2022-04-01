@@ -1,1 +1,3 @@
-# World_Weather_Analysis
+# World Weather Analysis
+
+A representative from a developing application requested assistance in gathering data for the app to feature weather data from cities across the globe to help users plan their ideal vacation. To accomplish this goal, APIs from OpenWeatherMap and Google were utilized to synthesize data from specific cities. Pulling data from OpenWeatherMap allowed the development team to incorporate weather data from the cities whereas data from Google allowed the team to generate maps with marker layers to highlight the facts about the different cities. When combined, the users of PlanMyTrip were able to select cities based on their preferred weather and create an itinerary of other cities close by, along with map the best route to take. 
